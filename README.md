@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Sunny12798665
+- 👀 I’m interested in hacking
+- 🌱 I’m currently learning python
+- 💞️ I'm looking to collaborate on amino.py
+- 📫 Contact me on instagram @ll_mr_joseph.v_ll
